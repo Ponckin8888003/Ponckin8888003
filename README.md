@@ -17,17 +17,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ponckin8888003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ponckin8888003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://t.me/YUR4ST003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="telegram logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="telegram logo"  />
   <a href="https://www.instagram.com/yur4st003/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
 </div>
 
