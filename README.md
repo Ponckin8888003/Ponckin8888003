@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ponckin8888003/Ponckin8888003/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{Ponckin8888003}}/{{Ponckin8888003}}/blob/output/github-contribution-grid-snake.svg)
 
 ###
