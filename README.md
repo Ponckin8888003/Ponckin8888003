@@ -33,6 +33,6 @@
 
 ###
 
-![snake gif](https://github.com/Ponckin8888003/Ponckin8888003/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ponckin8888003/ponckin8888003/blob/output/github-contribution-grid-snake.gif)
 
 ###
