@@ -35,6 +35,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Ponckin8888003/Ponckin8888003/output/snake.svg" alt="Snake animation" />
 
 ###
