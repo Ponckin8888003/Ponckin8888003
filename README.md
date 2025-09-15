@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Ponckin8888003&show_icons=true&theme=dark" 
@@ -13,9 +12,8 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ponckin8888003&show_icons=true&theme=default" />
   </picture>
 
-  &nbsp;&nbsp;&nbsp; <!-- відступ між картками -->
+  &nbsp;&nbsp;&nbsp; 
 
-  <!-- Top Languages -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ponckin8888003&layout=compact&langs_count=8&card_width=320&theme=dark" 
