@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yura and I'm a Frontend developer, from Ukraine</h2>
+<h2 align="left">Hi 👋! My name is Yurii and I'm a Frontend developer, from Ukraine</h2>
 
 <div align="center">
 
